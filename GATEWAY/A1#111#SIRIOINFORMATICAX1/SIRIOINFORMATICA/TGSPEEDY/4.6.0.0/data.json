@@ -84,7 +84,7 @@
                     ]
         },
         {
-            "id":"160",
+            "id":160,
             "ts":"2026-06-08T10:05:26Z",
             "traceId":"c94773f79d90c1a9a9f29e9ce6bff457",
             "workflowInstanceId":"2.16.840.1.113883.2.9.2.110.4.4.45f4713af1dfe8ec99946213b0e95604ddcc99d8926dd80702b6a200b78d138a.aa05014224^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
@@ -184,7 +184,7 @@
                     ]
         },
         {
-            "id":"448",
+            "id":448,
             "ts":"2026-06-08T10:05:31Z",
             "traceId":"34b932ef5bb3f5d9f401a5452fb7f588",
             "workflowInstanceId":"2.16.840.1.113883.2.9.2.110.4.4.86e6886b605a7f623a1138b05645775d2035e8fa979965275b39c9065c3f0bff.4690c235f7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
